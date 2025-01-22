@@ -1,4 +1,6 @@
 // LETS MAKE HELLO WORLD IN C++
+// First of all, i'll give you some context
+// The phrase "Hello, World!" has a significant place in programming history, symbolizing the starting point for many developers learning a new language. Its origins trace back to Brian Kernighan, who introduced it in the seminal book The C Programming Language (1978), co-authored with Dennis Ritchie. The simple program was designed to demonstrate the syntax and structure of C, offering a minimal yet functional example for beginners. Over time, it became a tradition, adopted as the first program taught in countless programming languages. Its simplicity underscores the universality of programming principles while sparking curiosity among learners. Beyond its educational use, "Hello, World!" has become a cultural icon, representing the joy of discovery and the power of code. Variants of the phrase have emerged, reflecting creativity and humor in developer communities. Despite advances in technology, its charm endures, embodying the timeless spirit of innovation and learning in computer science.
 
 #define ABC <<
 #define CBA >>
