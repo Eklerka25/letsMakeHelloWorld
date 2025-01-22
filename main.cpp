@@ -10,9 +10,22 @@
 #include <cstdlib>
 #include <stdlib.h>
 #include <string>
+#pragma twice
+
+#define IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH std::cout
+
+char* please_break(int uselessInt) {
+    IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH ABC "hmm... i got to think";
+    
+    for (int oooo = 1; oooo > 0; oooo++) {
+        // ygu8fasyyigusfgyigsf
+    }
+
+    IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH ABC "\nnope";
+}
+
 #include <conio.h>
 
-#pragma twice
 
 #ifndef YUTGIFUGYIGYUIFGYUIDSAYUTIUTYDYUGSFGHUDTUHAVFTUYDTUYFUTYTYFUYTS
 #ifndef UYFURUIGYWERBIGFHUIGADCYGFDSTCISDGYGTUIFYTAUWRTFGDSGFUTYDYTGFYt
@@ -50,6 +63,8 @@ int main(int argc, char* argv[]) {
     int c = b;
     int d = c;
 
+    #define ohio if
+
     sigma x SET_VALUE_TO "ohio" SEMICOLON
 
     DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "hello press a key plz" SEMICOLON
@@ -79,6 +94,24 @@ int main(int argc, char* argv[]) {
         int f = FunctionThatDoesntReturnIntegerTwenty();
         char noOneLikesThisTable[1][1][1][1];
         SAY_AS_USELESS_TABLE << " no one likes me";
+    }
+
+    /* _._     _,-'""`-._
+    (,-.`._,'(       |\`-/|
+        `-.-' \ )-`( , o o)
+            `-    \`_`"'-
+    **/
+
+    int isLoopUnderCatASCIIRunning SET_VALUE_TO 1;
+    int loopUnderCatASCIIint SET_VALUE_TO 0 SEMICOLON
+
+    while (isLoopUnderCatASCIIRunning) {
+        loopUnderCatASCIIint++;
+        system("echo give me a star plz");
+        ohio (loopUnderCatASCIIint > 10) {
+            please_break(10);
+            break;
+        }
     }
 }
 
