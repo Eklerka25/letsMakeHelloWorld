@@ -31,6 +31,11 @@ int FunctionThatDoesntReturnIntegerTwenty() {
     return 20;
 }
 
+void imUselessFunction(int a, int b, int c, int d, int e, int f, int g, int h, char* j, char i, uint8_t xdiduf) {
+    DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "Its so sad cuz' im useless...";
+}
+
+
 
 typedef char* not_sigma;
 typedef std::string sigma;
@@ -47,6 +52,8 @@ int main(int argc, char* argv[]) {
 
     sigma x SET_VALUE_TO "ohio" SEMICOLON
 
+    DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "hello press a key plz" SEMICOLON
+
     if (
         2
         // HELLO
@@ -60,7 +67,19 @@ int main(int argc, char* argv[]) {
 
     char cplusplusismyfavouritelanguage = getch();
 
-    DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "You've pressed: some key on the keyboard" SEMICOLON
+    DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n you've pressed: some key on the keyboard" SEMICOLON
+
+    #define SAY_AS_USELESS_TABLE DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE<<"\nnoOneLikesThisTable says:"
+
+    if (2 != 2) {
+        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "Math isn't mathing" SEMICOLON
+    } else if (2 == 3) {
+        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "Math still isn't mathing" SEMICOLON
+    } else {
+        int f = FunctionThatDoesntReturnIntegerTwenty();
+        char noOneLikesThisTable[1][1][1][1];
+        SAY_AS_USELESS_TABLE << " no one likes me";
+    }
 }
 
 #endif
