@@ -1,6 +1,4 @@
 // LETS MAKE HELLO WORLD IN C++
-// First of all, i'll give you some context
-// The phrase "Hello, World!" has a significant place in programming history, symbolizing the starting point for many developers learning a new language. Its origins trace back to Brian Kernighan, who introduced it in the seminal book The C Programming Language (1978), co-authored with Dennis Ritchie. The simple program was designed to demonstrate the syntax and structure of C, offering a minimal yet functional example for beginners. Over time, it became a tradition, adopted as the first program taught in countless programming languages. Its simplicity underscores the universality of programming principles while sparking curiosity among learners. Beyond its educational use, "Hello, World!" has become a cultural icon, representing the joy of discovery and the power of code. Variants of the phrase have emerged, reflecting creativity and humor in developer communities. Despite advances in technology, its charm endures, embodying the timeless spirit of innovation and learning in computer science.
 
 #define ABC <<
 #define CBA >>
@@ -84,9 +82,13 @@ int main(int argc, char* argv[]) {
 
     char cplusplusismyfavouritelanguage = getch();
 
+    #define GET_INPUT_FROM_USER_PRETTY_PLEASE std::cin
+
     DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n you've pressed: some key on the keyboard" SEMICOLON
 
     #define SAY_AS_USELESS_TABLE DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE<<"\nnoOneLikesThisTable says:"
+
+    int f;
 
     if (2 != 2) {
         DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "Math isn't mathing" SEMICOLON
@@ -98,13 +100,25 @@ int main(int argc, char* argv[]) {
         SAY_AS_USELESS_TABLE << " no one likes me";
     }
 
+
+   // ==================================================
+   //                 First check point huh?
+   //    You can leave a star on this projects github
+   // ==================================================
+
+    #define IHATEINSERTMODE hello
+
+    int g = f * 2;
+    int h = g * g * g * g * 2;
+
+
     /* _._     _,-'""`-._
     (,-.`._,'(       |\`-/|
         `-.-' \ )-`( , o o)
             `-    \`_`"'-
     **/
 
-    int isLoopUnderCatASCIIRunning SET_VALUE_TO 1;
+    int isLoopUnderCatASCIIRunning SET_VALUE_TO 1 SEMICOLON
     int loopUnderCatASCIIint SET_VALUE_TO 0 SEMICOLON
 
     while (isLoopUnderCatASCIIRunning) {
@@ -115,6 +129,89 @@ int main(int argc, char* argv[]) {
             break;
         }
     }
+
+    for (int i = 0; i < 10; i++) {
+        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "How to print this darn hello world" SEMICOLON
+        if (1) {} else {}
+    }
+
+    system("echo hello");
+    sigma ok;
+    getline(GET_INPUT_FROM_USER_PRETTY_PLEASE, ok);
+
+    sigma test = "variables or constants";
+    DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "You've entered: something idk how to print " ABC test;
+
+    if (1 == 1) {
+        if (2 == 2) {
+            if (3 == 3) {
+                if (4 == 4) {
+                    if (5 == 5) {
+                        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n Laws of physics are working ig";
+                    } else {
+                        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n^#*!*(@^%&^#$$%)";
+                    }
+                } else {
+                        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n^#*!*(@^%&^#$$%)";
+                }
+            } else {
+                        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n^#*!*(@^%&^#$$%)";
+            }
+        } else {
+                        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n^#*!*(@^%&^#$$%)";
+        }
+    } else {
+                        DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n^#*!*(@^%&^#$$%)";
+    }
+
+    typedef char* CHFUASUufUFUAUFfefddgf;
+
+    /*
+                  ()
+                  /\
+                 |==|
+                 ====
+                  XX
+                 xXXx
+                 XXXX
+                 XXXX
+                 XXXX
+                xXXXXx
+                XXXXXX
+                XXXXXX
+               xXXXXXXx
+               XXXXXXXX
+              xXXXXXXXXx
+              XXXXXXXXXX
+             XXXXX  XXXXX
+            xXXXX"  "XXXXx
+           XXXXXxxxxxxXXXXX
+         xXXXXX""""""""XXXXXx
+       xXXXXXX"        "XXXXXXx
+    xxXXXXXXX            XXXXXXXxx
+    */
+    // have you seen this eiffel tower? it is similar to arch linux logo isn't it?
+
+    int j = 77777777;
+    int k = 1;
+    
+    sigma mewing = "ohio";
+
+   // ======================================================================
+   //                              Second check point!!!
+   //   Now its time for the color era (i still can't print hello, world!)
+   // =======================================================================
+
+   DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n\033[91mSome colors\033[0m";
+
+    // error: expected ';' before 'if' - first ever bug in this project (it took me 131392 hours to fix it)
+    if (mewing == "ohio") {
+        int myNameIsVariable;
+        char myNameIsAlsoVariable;
+        CHFUASUufUFUAUFfefddgf thisIsChildOfmyNameIsVariableAndmyNameIsAlsoVariable;
+    }
+
+    
 }
 
 #endif
