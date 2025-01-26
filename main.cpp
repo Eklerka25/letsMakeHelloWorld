@@ -81,6 +81,7 @@ int main(int argc, char* argv[]) {
     // this is so hard
 
     char cplusplusismyfavouritelanguage = getch();
+    char c = 'A';
 
     #define GET_INPUT_FROM_USER_PRETTY_PLEASE std::cin
 
