@@ -14,6 +14,12 @@
 
 #define IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH std::cout
 #define OK std::cin
+#define A A
+#define B B
+#define C C
+#define D D
+#define E E
+#define F F
 
 char* please_break(int uselessInt) {
     IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH ABC "hmm... i got to think";
