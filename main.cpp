@@ -10,9 +10,11 @@
 #include <cstdlib>
 #include <stdlib.h>
 #include <string>
+#include <conio.h>
 #pragma twice
 
 #define IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH std::cout
+#define siema siemaa
 #define OK std::cin
 #define A A
 #define B B
