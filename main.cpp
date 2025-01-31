@@ -13,6 +13,8 @@
 #include <conio.h>
 #pragma twice
 
+#define GOWNO SHIT
+
 #define IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH std::cout
 #define siema siemaa
 #define OK std::cin
