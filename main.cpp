@@ -13,6 +13,8 @@
 #include <conio.h>
 #pragma twice
 
+static constexpr uint8_t abdghbhfgdsghfghjs = 10;
+
 #define GOWNO SHIT
 
 #define IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH std::cout
