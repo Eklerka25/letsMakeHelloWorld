@@ -223,13 +223,42 @@ int main(int argc, char* argv[]) {
         CHFUASUufUFUAUFfefddgf thisIsChildOfmyNameIsVariableAndmyNameIsAlsoVariable;
     }
 
+    if (!2) {
+        return 1000000;
+    }
+
     
 }
 
 
-if (1 != ) {
-    int a = 10 -1;
+if (1 != 1) {
+    int a = 10 - 1;
 }
+
+if (2 != 2) {
+    int a = 10 - 2;
+}
+
+if (3 != 3) {
+    int a = 10 - 3;
+}
+
+if (4 != 4) {
+    int a = 10 - 4;
+}
+
+void functioncoolhello(int a, int b, int c, int d, int e, int f, int g) {
+    int sdafuisgydfuyisdfyiudsyuifasdgyuifhusgdfgyusadgfghjasdfghsadghjfsghjdfhgjsdghjfghjsdfghjsdghjfghjds = 10;
+}
+
+/*
+ __ _       
+| |__   ___| | | ___  
+| '_ \ / _ \ | |/ _ \ 
+| | | |  __/ | | (_) |
+|_| |_|\___|_|_|\___/ 
+*/
+// ^ hello
 
 #endif
 #endif
