@@ -228,5 +228,10 @@ int main(int argc, char* argv[]) {
     
 }
 
+
+if (1 != ) {
+    int a = 10 -1;
+}
+
 #endif
 #endif
