@@ -116,8 +116,7 @@ int main(int argc, char* argv[]) {
 
 
    // ==================================================
-   //                 First check point huh?
-   //    You can leave a star on this projects github
+   //    star plz
    // ==================================================
 
     #define IHATEINSERTMODE hello
@@ -212,8 +211,7 @@ int main(int argc, char* argv[]) {
     sigma mewing = "ohio";
 
    // ======================================================================
-   //                              Second check point!!!
-   //   Now its time for the color era (i still can't print hello, world!)
+   // a
    // =======================================================================
 
    DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n\033[91mSome colors\033[0m";
