@@ -17,6 +17,7 @@
 static constexpr uint8_t abdghbhfgdsghfghjs = 10;
 
 #define GOWNO SHIT
+// haha very funny haha ha ha ha
 
 #define IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH std::cout
 #define siema siemaa
