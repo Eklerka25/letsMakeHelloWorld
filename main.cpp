@@ -11,6 +11,7 @@
 #include <stdlib.h>
 #include <string>
 #include <conio.h>
+#include <algorithm>
 #pragma twice
 
 static constexpr uint8_t abdghbhfgdsghfghjs = 10;
@@ -259,6 +260,11 @@ void functioncoolhello(int a, int b, int c, int d, int e, int f, int g) {
 |_| |_|\___|_|_|\___/ 
 */
 // ^ hello
+
+struct Hello {
+    int age = 10;
+
+};
 
 #endif
 #endif
