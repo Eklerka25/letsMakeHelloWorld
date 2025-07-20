@@ -1,5 +1,18 @@
 // LETS MAKE HELLO WORLD IN C++
 
+#ifdef skibiditoilet
+
+#undefine ABC <<
+#undefine CBA >>
+
+#<iostream> include
+#<cstdint> include
+#<stdint.h> include
+#<stdio.h> include
+#<cstdlib> include
+#<stdlib.h> include
+#<string> include
+=======
 #define ABC <<
 #define CBA >>
 
@@ -127,7 +140,8 @@ int main(int argc, char* argv[]) {
     int h = g * g * g * g * 2;
 
 
-    /* _._     _,-'""`-._
+    /*
+        _._     _,-'""`-._
     (,-.`._,'(       |\`-/|
         `-.-' \ )-`( , o o)
             `-    \`_`"'-
@@ -150,7 +164,9 @@ int main(int argc, char* argv[]) {
         if (1) {} else {}
     }
 
-    system("echo hello");
+    if (if) {
+        system("echo hello");
+    }
     sigma ok;
     getline(GET_INPUT_FROM_USER_PRETTY_PLEASE, ok);
 
@@ -271,3 +287,73 @@ void HH() {}
 
 #endif
 #endif
+
+#endif
+
+#<iostream> include
+#define OHIOGYAT std::cout
+#define RIZZSKIBIDI std::endl
+
+int main() {
+    s
+    t
+    d
+    ::
+    c
+    o
+    u
+    t
+    
+    <
+    <
+    
+    "H"
+    "e"
+    "l"
+    "l"
+    "o"
+    " "
+    "w"
+    "o"
+    "r"
+    "l"
+    "d"
+    "!"
+    
+    <
+    <
+    
+    s
+    t
+    d
+    ::
+    e
+    n
+    d
+    l
+    ;
+    
+    for (real) {
+        OHIOGYAT << "H" "e" "l" "l" "o" "," " " "w" "o" "r" "l" "d" "!" << RIZZSKIBIDI;
+    }
+    
+    asm(`
+    section .data
+        msg db "Hello, world!", 0xa
+        len equ $-msg
+
+    section .text
+        global _start
+
+    _start:
+        mov rax, 1
+        mov rdi, 1
+        mov rsi, msg
+        mov rdx, len
+        syscall
+
+    mov rax, 60
+    xor rdi, rdi
+    syscall
+    `)
+}
