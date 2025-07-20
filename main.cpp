@@ -267,5 +267,7 @@ struct Hello {
 
 };
 
+void HH() {}
+
 #endif
 #endif
