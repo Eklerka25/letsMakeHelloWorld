@@ -12,9 +12,35 @@
 #<cstdlib> include
 #<stdlib.h> include
 #<string> include
+=======
+#define ABC <<
+#define CBA >>
+
+#include <iostream>
+#include <cstdint>
+#include <stdint.h>
+#include <stdio.h>
+#include <cstdlib>
+#include <stdlib.h>
+#include <string>
+#include <conio.h>
+#include <algorithm>
 #pragma twice
 
+static constexpr uint8_t abdghbhfgdsghfghjs = 10;
+
+#define GOWNO SHIT
+// haha very funny haha ha ha ha
+
 #define IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH std::cout
+#define siema siemaa
+#define OK std::cin
+#define A A
+#define B B
+#define C C
+#define D D
+#define E E
+#define F F
 
 char* please_break(int uselessInt) {
     IHJFHJIFHJKFHJKFHJKFHJKHJKJHDAJHKFHGKDAGHJFGHJDGJHFHJADSGJFGHJDGFHASDGHJFGHDGH ABC "hmm... i got to think";
@@ -83,6 +109,7 @@ int main(int argc, char* argv[]) {
     // this is so hard
 
     char cplusplusismyfavouritelanguage = getch();
+    char c = 'A';
 
     #define GET_INPUT_FROM_USER_PRETTY_PLEASE std::cin
 
@@ -104,8 +131,7 @@ int main(int argc, char* argv[]) {
 
 
    // ==================================================
-   //                 First check point huh?
-   //    You can leave a star on this projects github
+   //    star plz
    // ==================================================
 
     #define IHATEINSERTMODE hello
@@ -203,8 +229,7 @@ int main(int argc, char* argv[]) {
     sigma mewing = "ohio";
 
    // ======================================================================
-   //                              Second check point!!!
-   //   Now its time for the color era (i still can't print hello, world!)
+   // a
    // =======================================================================
 
    DISPLAY_TEXT_ONTO_THE_SCREEN_PLEASE ABC "\n\033[91mSome colors\033[0m";
@@ -216,8 +241,49 @@ int main(int argc, char* argv[]) {
         CHFUASUufUFUAUFfefddgf thisIsChildOfmyNameIsVariableAndmyNameIsAlsoVariable;
     }
 
+    if (!2) {
+        return 1000000;
+    }
+
     
 }
+
+
+if (1 != 1) {
+    int a = 10 - 1;
+}
+
+if (2 != 2) {
+    int a = 10 - 2;
+}
+
+if (3 != 3) {
+    int a = 10 - 3;
+}
+
+if (4 != 4) {
+    int a = 10 - 4;
+}
+
+void functioncoolhello(int a, int b, int c, int d, int e, int f, int g) {
+    int sdafuisgydfuyisdfyiudsyuifasdgyuifhusgdfgyusadgfghjasdfghsadghjfsghjdfhgjsdghjfghjsdfghjsdghjfghjds = 10;
+}
+
+/*
+ __ _       
+| |__   ___| | | ___  
+| '_ \ / _ \ | |/ _ \ 
+| | | |  __/ | | (_) |
+|_| |_|\___|_|_|\___/ 
+*/
+// ^ hello
+
+struct Hello {
+    int age = 10;
+
+};
+
+void HH() {}
 
 #endif
 #endif
