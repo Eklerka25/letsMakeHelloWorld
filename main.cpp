@@ -356,4 +356,8 @@ int main() {
     xor rdi, rdi
     syscall
     `)
+
+    struct Kupa {
+        int a;
+    }
 }
